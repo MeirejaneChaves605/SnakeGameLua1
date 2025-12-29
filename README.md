@@ -1,4 +1,4 @@
-# 🐍 | Jogo da cobrinha
+# 🐍 | SnakeGameLua1
 
 ![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
 
