@@ -31,9 +31,6 @@ O jogo é baseado no **Snake** (jogo da cobrinha), em que a cobra deve crescer e
 - [Lua](https://www.lua.org/)
 - [LÖVE2D](https://love2d.org/wiki/Main_Page)
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações sobre os termos de licenciamento.
 
 ---
 
