@@ -34,4 +34,4 @@ O jogo é baseado no **Snake** (jogo da cobrinha), em que a cobra deve crescer e
 
 ---
 
-✨ Feito com carinho por [Andrieli Gonçalves](https://github.com/strawndri).
+✨ Feito com carinho por [Meirejane Chaves](https://github.com/MeirejaneChaves605).
