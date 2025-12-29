@@ -7,7 +7,7 @@
 - [Sobre o projeto](#sobre-o-projeto)
 - [Aprendizagens](#aprendizagens)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Licença](#licença)
+
 
 ## Sobre o projeto
 
